@@ -8,5 +8,6 @@ An 8-Step Sequencer with 3 independent trigger output channels. All steps are co
 
 **Version 1.0**
 
-The initial version. Click [here](https://github.com/benjiao/ThreeChannelTriggers/raw/master/ThreeChannelTriggers%20v1.0.pdf) for full PDF.
+The initial version. Click [here](https://github.com/benjiao/ThreeChannelTriggers/raw/master/Exports/ThreeChannelTriggers%20v1.0.pdf) for full PDF.
 
+<img src="./Exports/ThreeChannelTriggers 1.0.svg">
