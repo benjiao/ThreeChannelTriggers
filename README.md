@@ -3,6 +3,7 @@ An 8-Step Sequencer with 3 independent trigger output channels. All steps are co
 
 *Note: This can be modified to add one more channel using the extra AND gate in the CD4081.*
 
+[![Watch the video](https://img.youtube.com/vi/QXabA5EZKmw/maxresdefault.jpg)](https://www.youtube.com/watch?v=QXabA5EZKmw)
 
 ## Version History
 
