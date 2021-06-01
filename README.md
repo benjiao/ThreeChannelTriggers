@@ -3,7 +3,16 @@ An 8-Step Sequencer with 3 independent trigger output channels. All steps are co
 
 *Note: This can be modified to add one more channel using the extra AND gate in the CD4081.*
 
-[![Watch the video](https://img.youtube.com/vi/QXabA5EZKmw/maxresdefault.jpg)](https://www.youtube.com/watch?v=QXabA5EZKmw)
+**Video on Youtube:**
+
+[![Watch the video](https://img.youtube.com/vi/QXabA5EZKmw/hqdefault.jpg)](https://www.youtube.com/watch?v=QXabA5EZKmw)
+
+
+**What the output looks like**
+The trigger output are short 7ms, 8.6V pulses. The pulse width can be increased by increasing C2, C3, and C4.
+
+<img src="https://raw.githubusercontent.com/benjiao/ThreeChannelTriggers/master/OscilloscopeOutput.png">
+
 
 ## Version History
 
